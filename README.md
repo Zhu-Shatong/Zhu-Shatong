@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+
+-->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +15,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+![Zhu-Shatong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhu-Shatong&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)
+
+![csdn](https://stats.justsong.cn/api/csdn?id=zhushatong)
+
+![leetcode](https://stats.justsong.cn/api/leetcode?username=wu-tong-z3x&cn=true)
+
