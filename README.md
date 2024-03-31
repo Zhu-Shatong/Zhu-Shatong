@@ -50,9 +50,11 @@
 ![](./profile-3d-contrib/profile-gitblock.svg)
 -->
 
+<!--
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="./assets/dev-working_rounded.gif" alt="working developer">
 </p>
+-->
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
     Connect with me:
 </h3>
