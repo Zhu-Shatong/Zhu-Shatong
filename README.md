@@ -31,10 +31,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Zhu-Shatong&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" alt="Zhu-Shatong's GitHub stats" />
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://stats.justsong.cn/api/csdn?id=zhushatong" alt="Zhu-Shatong's CSDN" />
+    <img src="https://stats.justsong.cn/api/csdn?id=zhushatong" alt="CSDN" />
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://stats.justsong.cn/api/leetcode?username=wu-tong-z3x&cn=true" alt="Zhu-Shatong's leetcode" />
+    <img src="https://stats.justsong.cn/api/leetcode?username=wu-tong-z3x&cn=true" alt="leetcode" />
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
