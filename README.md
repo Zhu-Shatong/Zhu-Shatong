@@ -26,7 +26,7 @@
 
 - 🏆 **Recipient of the National Scholarship** 
 - 🔭 **I’m currently working on:**
-  - 🤖 **Reinforcement Learning:** My main research focuses on Meta Reinforcement Learning, specifically on contrastive learning and representation learning for task features.
+  - 🤖 **Reinforcement Learning:** My main research focuses on Meta Reinforcement Learning.
   - 📊 **Econometrics:** I'm actively engaged in empirical analysis within the field of econometrics.
   - 🤖 **Multi-Agent Systems:** I have experience in multi-agent reinforcement learning.
   - 🌐 **Project "FinanceSmart"**: Working on a comprehensive financial LLM to enhance data-driven decisions in finance.
