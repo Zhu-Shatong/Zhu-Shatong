@@ -12,7 +12,7 @@
          alt="Welcome to my GitHub Profile. I am a third-year CS student at Tongji University, focusing primarily on Reinforcement Learning." />
 </p>
 
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,6 +20,25 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+  -->
+  
+### Hi there 👋
+
+- 🏆 **Recipient of the National Scholarship** 
+- 🔭 **I’m currently working on:**
+  - 🤖 **Reinforcement Learning:** My main research focuses on Meta Reinforcement Learning, specifically on contrastive learning and representation learning for task features.
+  - 📊 **Econometrics:** I'm actively engaged in empirical analysis within the field of econometrics.
+  - 🤖 **Multi-Agent Systems:** I have experience in multi-agent reinforcement learning.
+  - 🌐 **Project "FinanceSmart"**: Working on a comprehensive financial LLM to enhance data-driven decisions in finance.
+  - 🏥 **Interest in Healthcare:** I am keen on exploring multimodal data integration in medical contexts.
+
+  
+- 🛠 **Skills:**
+  - Data Science
+  - Statistical Modeling
+
+- 📢 I'm passionate about using advanced analytics to solve real-world problems and making a meaningful impact through data.
+
 
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
