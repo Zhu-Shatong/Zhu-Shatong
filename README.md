@@ -26,6 +26,7 @@
 
 - 🏆 **Recipient of the National Scholarship**
 - 🏆 **RoboCup2024 (China Robot Championship and The RoboCup China Open), National 1st Prize**
+- 🏆 **ISCC2024 (Information Security and Countermeasures Contest), National 1st Prize**
 - 🔭 **I’m currently working on:**
   - 🤖 **Reinforcement Learning:** My main research focuses on Meta Reinforcement Learning.
   - 📊 **Econometrics:** I'm actively engaged in empirical analysis within the field of econometrics.
