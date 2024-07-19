@@ -24,11 +24,11 @@
   
 ### Hi there 👋
 
-- 🏆 **Recipient of the National Scholarship 2023 (for top 0.2% student)**
-- 🏆 **RoboCup2024 (China Robot Championship and The RoboCup China Open), <u>National 1st Prize</u>**
-- 🏆 **Information Security and Countermeasures Contest 2024, National 1st Prize**
-- 🥈 **The Electrician Mathematical Contest in Modeling 2024, National 2nd Prize**
-- 🥉 **National College Student Statistical Modeling Competition 2023, National 3rd Prize**
+- 🏆 **Recipient of the _National Scholarship_ 2023 (for top 0.2% student)**
+- 🏆 **RoboCup2024 (China Robot Championship and The RoboCup China Open), _National 1st Prize_**
+- 🏆 **Information Security and Countermeasures Contest 2024, _National 1st Prize_**
+- 🥈 **The Electrician Mathematical Contest in Modeling 2024, _National 2nd Prize_**
+- 🥉 **National College Student Statistical Modeling Competition 2023, _National 3rd Prize_**
 - 🔭 **I’m currently working on:**
   - 🤖 **Reinforcement Learning:** My main research focuses on Meta Reinforcement Learning.
   - 📊 **Econometrics:** I'm actively engaged in empirical analysis within the field of econometrics.
