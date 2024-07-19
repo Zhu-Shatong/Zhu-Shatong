@@ -25,7 +25,7 @@
 ### Hi there 👋
 
 - 🏆 **Recipient of the National Scholarship 2023 (for top 0.2% student)**
-- 🏆 **RoboCup2024 (China Robot Championship and The RoboCup China Open),** <b><font face="Times New Roman">National 1st Prize</font></b>
+- 🏆 **RoboCup2024 (China Robot Championship and The RoboCup China Open), <u>National 1st Prize</u>**
 - 🏆 **Information Security and Countermeasures Contest 2024, National 1st Prize**
 - 🥈 **The Electrician Mathematical Contest in Modeling 2024, National 2nd Prize**
 - 🥉 **National College Student Statistical Modeling Competition 2023, National 3rd Prize**
