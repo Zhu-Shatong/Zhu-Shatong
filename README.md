@@ -8,7 +8,7 @@
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=100&lines=Welcome+to+my+GitHub+Profile;I+am+a+third-year+CS+student+at+Tongji+University;focusing+primarily+on+Reinforcement+Learning" 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=100&lines=Welcome+to+my+GitHub+Profile;I+am+a+forth-year+CS+student+at+Tongji+University;focusing+primarily+on+Reinforcement+Learning" 
          alt="Welcome to my GitHub Profile. I am a third-year CS student at Tongji University, focusing primarily on Reinforcement Learning." />
 </p>
 
@@ -25,8 +25,8 @@
 ### Hi there 👋
 
 - 🏆 **Recipient of the _National Scholarship_ 2023 (for top 0.2% student)**
-- 🎯 **AAAI under review, co-first author**
-- 🎯 **NeurIPS under review, Average Rating: 7.33**
+- 🎯 **AAAI under review, co-first author (MARL)**
+- 🎯 **NeurIPS under review, Average Rating: 7.33 (Meta RL)**
 - 🥇 **RoboCup2024 (China Robot Championship and The RoboCup China Open), _National 1st Prize_**
 - 🥇 **Information Security and Countermeasures Contest 2024, _National 1st Prize_**
 - 🥈 **Chinese Collegiate Computing Competition 2024, _National 2nd Prize_**
