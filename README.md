@@ -26,7 +26,7 @@
 
 - 🏆 **Recipient of the _National Scholarship_ 2023 (for top 0.2% student)**
 - 🎯 **AAAI under review, co-first author**
-- 🎯 **NeurIPS under review**
+- 🎯 **NeurIPS under review, Average Rating: 7.33**
 - 🥇 **RoboCup2024 (China Robot Championship and The RoboCup China Open), _National 1st Prize_**
 - 🥇 **Information Security and Countermeasures Contest 2024, _National 1st Prize_**
 - 🥈 **Chinese Collegiate Computing Competition 2024, _National 2nd Prize_**
