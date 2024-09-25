@@ -25,8 +25,8 @@
 ### Hi there 👋
 
 - 🏆 **Recipient of the _National Scholarship_ 2023 (for top 0.2% student)**
-- 🎯 **AAAI under review, co-first author (MARL)**
-- 🎯 **NeurIPS under review, Average Rating: 7.33 (Meta RL)**
+- 📜 **AAAI under review, co-first author**
+- 📜 **NeurIPS 2024 (Spotlight),**
 - 🥇 **RoboCup2024 (China Robot Championship and The RoboCup China Open), _National 1st Prize_**
 - 🥇 **Information Security and Countermeasures Contest 2024, _National 1st Prize_**
 - 🥈 **Chinese Collegiate Computing Competition 2024, _National 2nd Prize_**
@@ -39,13 +39,8 @@
   - 🌐 **Project "FinanceSmart"**: Working on a comprehensive financial LLM to enhance data-driven decisions in finance.
   - 🏥 **Interest in Healthcare:** I am keen on exploring multimodal data integration in medical contexts.
 
-  
-- 🛠 **Skills:**
-  - Data Science
-  - Statistical Modeling
-
-- 📢 I'm passionate about using advanced analytics to solve real-world problems and making a meaningful impact through data.
-
+### News 📢
+- _2024.9._ &emsp; 📜 **Our paper UNICORN is accepted by NeurIPS 2024 as a Spotlight Talk!**
 
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
