@@ -25,8 +25,8 @@
 ### Hi there 👋
 
 - 🏆 **Recipient of the _National Scholarship_ 2023 (for top 0.2% student)**
-- 📜 **AAAI under review, co-first author**
-- 📜 **NeurIPS 2024 (Spotlight),**
+- 📜 **AAAI 2025 under review, co-first author**
+- 📜 **NeurIPS 2024 accepted (Spotlight)**
 - 🥇 **RoboCup2024 (China Robot Championship and The RoboCup China Open), _National 1st Prize_**
 - 🥇 **Information Security and Countermeasures Contest 2024, _National 1st Prize_**
 - 🥈 **Chinese Collegiate Computing Competition 2024, _National 2nd Prize_**
@@ -40,7 +40,7 @@
   - 🏥 **Interest in Healthcare:** I am keen on exploring multimodal data integration in medical contexts.
 
 ### News 📢
-- _2024.9._ &emsp; 📜 **Our paper UNICORN is accepted by NeurIPS 2024 as a Spotlight Talk!**
+- _2024.9._ &emsp; 📜 **Our paper UNICORN is accepted at NeurIPS 2024 as a spotlight!**
 
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
