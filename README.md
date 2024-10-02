@@ -13,7 +13,7 @@
 </p>
 
 <div align=center>
-    <img src="./assets/tongji.png" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/Meetsocial.svg" width="170"/>
+    <img src="./assets/tongji.png" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/tiev.png" width="210"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/Meetsocial.svg" width="165"/>
 </div>
 
 <!--
