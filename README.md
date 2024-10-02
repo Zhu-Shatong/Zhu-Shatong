@@ -12,6 +12,10 @@
          alt="Welcome to my GitHub Profile. I am a third-year CS student at Tongji University, focusing primarily on Reinforcement Learning." />
 </p>
 
+<div align=center>
+    <img src="./assets/tongji.png" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/Meetsocial.svg" width="170"/>
+</div>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
