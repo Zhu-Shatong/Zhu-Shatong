@@ -13,7 +13,7 @@
 </p>
 
 <div align=center>
-    <img src="./assets/tongji.png" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/tiev.png" width="210"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/Meetsocial.svg" width="165"/>
+    <img src="./assets/tongji2.png" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/tiev.png" width="210"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/Meetsocial.svg" width="165"/>
 </div>
 
 <!--
@@ -28,8 +28,8 @@
   
 ### Hi there 👋
 
-- 🏆 **Recipient of the _National Scholarship_ 2024 (for top 0.2% student)(1w RMB)**
-- 🏆 **Recipient of the _National Scholarship_ 2023 (for top 0.2% student)(8k RMB)**
+- 🏆 **Laureate of the _National Scholarship_ 2024 (for top 0.4% student)(1w RMB)**
+- 🏆 **Laureate of the _National Scholarship_ 2023 (for top 0.2% student)(8k RMB)**
 - 📜 **AAAI 2025 under review, co-first author**
 - 📜 **NeurIPS 2024 accepted (Spotlight)**
 - 🥇 **RoboCup2024 (China Robot Championship and The RoboCup China Open), _National 1st Prize_**
@@ -45,7 +45,7 @@
   - 🏥 **Interest in Healthcare:** I am keen on exploring multimodal data integration in medical contexts.
 
 ### News 📢
-- _2024.11._ &emsp; 🏆 **Second-time recipient of the National Scholarship!**
+- _2024.11._ &emsp; 🏆 **Second-time Laureate of the National Scholarship!**
 - _2024.09._ &emsp; 📜 **Our paper UNICORN is accepted at NeurIPS 2024 as a spotlight!**
 - _2024.09._ &emsp; 🎓 **Undergraduate GPA finalized at 93.4, ranking 2nd in the major (Top5%).**
 
