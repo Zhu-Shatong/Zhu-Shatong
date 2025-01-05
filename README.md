@@ -28,9 +28,9 @@
   
 ### Hi there 👋
 
-- 🏆 **Laureate of the _National Scholarship_ 2024 (for top 0.4% student)(1w RMB)**
+- 🏆 **Laureate of the _National Scholarship_ 2024 (for top 0.2% student)(1w RMB)**
 - 🏆 **Laureate of the _National Scholarship_ 2023 (for top 0.2% student)(8k RMB)**
-- 📜 **AAAI 2025 under review, co-first author**
+- 📜 **ICML 2025 under review, co-first author**
 - 📜 **NeurIPS 2024 accepted (Spotlight)**
 - 🥇 **RoboCup2024 (China Robot Championship and The RoboCup China Open), _National 1st Prize_**
 - 🥇 **Information Security and Countermeasures Contest 2024, _National 1st Prize_**
@@ -42,7 +42,6 @@
   - 📊 **Econometrics:** I'm actively engaged in empirical analysis within the field of econometrics.
   - 🤖 **Multi-Agent Systems:** I have experience in multi-agent reinforcement learning.
   - 🌐 **Project "FinanceSmart"**: Working on a comprehensive financial LLM to enhance data-driven decisions in finance.
-  - 🏥 **Interest in Healthcare:** I am keen on exploring multimodal data integration in medical contexts.
 
 ### News 📢
 - _2024.11._ &emsp; 🏆 **Second-time Laureate of the National Scholarship!**
