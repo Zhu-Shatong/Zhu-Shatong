@@ -46,7 +46,7 @@
 ### News 📢
 - _2024.11._ &emsp; 🏆 **Second-time Laureate of the National Scholarship!**
 - _2024.09._ &emsp; 📜 **Our paper UNICORN is accepted at NeurIPS 2024 as a spotlight!**
-- _2024.09._ &emsp; 🎓 **Undergraduate GPA finalized at 93.4, ranking 2nd in the major (Top5%).**
+- _2024.09._ &emsp; 🎓 **Undergraduate GPA finalized at 93.4 (3.97/4.0), ranking 2nd in the major (Top5%).**
 
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
