@@ -47,7 +47,6 @@ Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Shatong Zhu
 - _2025.04._ &emsp; 🎓 **Received 11 MS admission offers from universities including Stanford, CMU and Berkeley!**
 - _2024.11._ &emsp; 🏆 **Second-time Laureate of the National Scholarship!**
 - _2024.09._ &emsp; 📜 **Our paper UNICORN is accepted at NeurIPS 2024 as a spotlight!**
-- _2024.09._ &emsp; 🎓 **Undergraduate GPA finalized at 93.4, ranking 2nd in the major (Top5%).**
 - _2024.09._ &emsp; 🎓 **Undergraduate GPA finalized at 93.4 (3.97/4.0), ranking 2nd in the major (Top5%).**
 
 
